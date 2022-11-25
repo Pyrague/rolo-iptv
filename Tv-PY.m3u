@@ -28,9 +28,6 @@ https://streaming.trece.com.py/live/trece.m3u8
 #EXTINF:-1 ,Trece argentina
 https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
 
-#EXTINF:-1 ,SNT
-https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
-
 #EXTINF:-1 ,Paravision
 http://170.83.242.152:5350/play/a00j
 
